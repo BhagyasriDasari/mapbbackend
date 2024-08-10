@@ -4,7 +4,7 @@ const cors = require('cors'); // Import CORS
 const app = express();
 const port = 5000;
 
-const googleMapsApiKey = 'AIzaSyCjqFTzy-Z7KP5FmJ_E3vd4Vs5mdspMR7M'; 
+const googleMapsApiKey = '*******************************'; 
 
 // Enable CORS for all origins (You can restrict it to specific origins as needed)
 app.use(cors());
